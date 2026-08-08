@@ -1,0 +1,11 @@
+Synthetic CSI variance analysis)
+Generated: 2026-03-25 14:19:40
+
+normal_variance: 0.021574
+attack_variance: 0.3007099999999998
+attack_to_normal_ratio: 13.938537128024466
+threshold_multiplier: 3.0
+variance_threshold: 0.064722
+targets_normal_variance: 0.021574
+targets_attack_variance: 0.30071
+targets_threshold: 0.064722
