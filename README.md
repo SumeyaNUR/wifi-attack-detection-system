@@ -98,6 +98,8 @@ wifi-attack-detection-system/
 ├── deauth_detection.py
 ├── requirements.txt
 ├── simulated_csi_data.csv
+├── csi_variance_report.txt
+├── CSI_Simple_plot.png
 ├── deauth.pcap
 ├── wpa2linkuppassphraseiswireshark.pcap
 └── README.md
